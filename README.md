@@ -11,5 +11,5 @@ Este trabajo forma parte de los desarrollos y resultados del proyecto [7Partidas
 
 En el momento de su primera carga (2023.03.11) es un trabajo en marcha (_work in progress_) por lo que puede haber modificaciones hasta el momento en el que se publique el volumen definitivo.
 
-El tipo de *licencia** se está pensando aún, pero todo apunta a que será una [GPL-3](https://opensource.org/license/gpl-3-0/).
+El tipo de **licencia*** se está pensando aún, pero todo apunta a que será una [GPL-3](https://opensource.org/license/gpl-3-0/) o una [Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/).
 
